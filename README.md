@@ -35,7 +35,11 @@
 
 [![IMAGE ALT TEXT HERE](https://i.imgur.com/GYrOufe.png)](https://vimeo.com/367559235)
 
-Tokyo Re:Verb is a part of a greater plugin suite by Studio Nani called Omoide (思い出)
+## Tokyo Re:Verb TLDR 
+
+Tokyo Re:Verb is a part of a greater plugin suite by Studio Nani called 
+
+### Omoide (思い出)
 
 Check out our other awesome plugins through the following links!
 
@@ -44,8 +48,6 @@ Check out our other awesome plugins through the following links!
 - https://github.com/TGovers/Initial_Delay
 
 - https://github.com/TGovers/Initial_Demon
-
-## Tokyo Re:Verb TLDR 
 
 Tokyo Re:Verb is a simple and intuitive VST plugin with an anime aesthetic. It utilises a 2-parameter IRR filter and a 4-parameter Reverb. Tokyo Re:Verb was designed for use with a multitude of different instruments in mind, such as
 * Synths
