@@ -12,7 +12,7 @@
 ![alt text](https://i.imgur.com/iANcxUj.png "Tokyo Re:Verb")
 
 ## Table of Contents  
-[Tokyo Re:Verb Demostration Videos](#tokyoreverbdemonstrationvideos)
+[Tokyo Re:Verb Demostration Video](#tokyoreverbdemonstrationvideo)
 
 [Tokyo Re:Verb TLDR](#tokyoreverbtldr)
 
@@ -24,20 +24,26 @@
 
 [License](#license)
 
-<a name="tokyoreverbdemonstrationvideos"/>
+<a name="tokyoreverbdemonstrationvideo"/>
 <a name="tokyoreverbtldr"/>
 <a name="installationguide"/>
 <a name="tokyoreverbindepth"/>
 
-## Tokyo Re:Verb Demonstration Videos (WORK IN PROGRESS)
+## Tokyo Re:Verb Demonstration Video
 
-### Song Demonstration
+### Omoide (思い出) Demonstration
 
-![alt text](https://i.imgur.com/aKIrEBF.png "Coming Soon")
+[![IMAGE ALT TEXT HERE](https://i.imgur.com/GYrOufe.png)](https://vimeo.com/367559235)
 
-### White Noise Demonstration
+Tokyo Re:Verb is a part of a greater plugin suite by Studio Nani called Omoide (思い出)
 
-![alt text](https://i.imgur.com/aKIrEBF.png "Coming Soon")
+Check out our other awesome plugins through the following links!
+
+- https://github.com/TGovers/Angry_Ayaya
+
+- https://github.com/TGovers/Initial_Delay
+
+- https://github.com/TGovers/Initial_Demon
 
 ## Tokyo Re:Verb TLDR 
 
