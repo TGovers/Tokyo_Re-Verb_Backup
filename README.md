@@ -78,7 +78,7 @@ Thank you!
 
 For Mac users, we recommend cloning/downloading the repository to your computer and installing the plugin through the easy-to-use DMG installer. Simply mount the disk image/DMG (TokyoReVerb_MAC.dmg) and then open the .pkg file found inside. Follow the instructions within the .pkg installer and you'll be good to go!
 
-For Windows users, we recommend downloading the repository to your computer and installing the plugin through the easy-to-use EXE installer (InitialDemon_WINDOWS.exe)
+For Windows users, we recommend downloading the repository to your computer and installing the plugin through the easy-to-use EXE installer (TokyoReVerb_WINDOWS.exe)
 
 If using the JUCE project directly, please refer to a youtube guide or the JUCE website if you are unsure on how to begin! We recommend this [video by Miskat Music](https://www.youtube.com/watch?v=rGzSSNjbXlA "https://www.youtube.com/watch?v=rGzSSNjbXlA") or the [JUCE Tutorials Page](https://juce.com/learn/tutorials "https://juce.com/learn/tutorials").
 
